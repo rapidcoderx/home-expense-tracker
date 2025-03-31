@@ -1,0 +1,17 @@
+{
+  "name": "home-expense-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Home Expense Tracker application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "npm-check-updates": "^17.1.16"
+  },
+  "author": "",
+  "license": "ISC"
+}
